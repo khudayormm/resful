@@ -1,0 +1,7 @@
+{
+    "name" : "my node app - development",
+    "mailserver" : {
+        "host" : "devmailserver.company"
+
+    }
+}
